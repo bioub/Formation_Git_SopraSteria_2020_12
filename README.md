@@ -8,3 +8,4 @@ Description
 * git config
 * git add
 * git commit
+* git restore
