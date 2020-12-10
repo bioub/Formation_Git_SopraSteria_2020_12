@@ -1,5 +1,7 @@
 # Formation Git Sopra Steria 12/2020
 
+Description
+
 ## Memento des commandes vues
 
 * git init
