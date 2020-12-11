@@ -14,3 +14,5 @@ Description
 
 * commitizen
 * dans la config définir un template de commit message
+* commitlin
+* husky
