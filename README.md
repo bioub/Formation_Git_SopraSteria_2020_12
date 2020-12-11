@@ -17,3 +17,10 @@ Description
 - commitlin
 - husky
 - lint-staged pour appliquer le hook aux modifications du staging
+
+## Workflow distant
+
+- Workflow centralisé / Basic workflow (1 seule branche)
+- Gitflow
+- Github flow
+- Gitlab flow
