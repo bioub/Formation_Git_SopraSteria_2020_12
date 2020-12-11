@@ -16,3 +16,4 @@ Description
 - dans la config définir un template de commit message
 - commitlin
 - husky
+- lint-staged pour appliquer le hook aux modifications du staging
