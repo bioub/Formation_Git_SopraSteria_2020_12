@@ -23,3 +23,4 @@ Description
 - Workflow centralisé / Basic workflow (1 seule branche)
 - Gitflow
 - Github flow
+- Gitlab flow
