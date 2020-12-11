@@ -2,11 +2,15 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "husky": "^4.3.5"
+    "husky": "^4.3.5",
+    "prettier": "^2.2.1"
   },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "scripts": {
+    "prettier": "prettier --write '**/*.{js,json,md}'"
   }
 }

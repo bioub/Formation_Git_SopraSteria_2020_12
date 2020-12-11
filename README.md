@@ -4,15 +4,15 @@ Description
 
 ## Memento des commandes vues
 
-* git init
-* git config
-* git add
-* git commit
-* git restore
+- git init
+- git config
+- git add
+- git commit
+- git restore
 
 ## Memento des programmes utiles en local
 
-* commitizen
-* dans la config définir un template de commit message
-* commitlin
-* husky
+- commitizen
+- dans la config définir un template de commit message
+- commitlin
+- husky
